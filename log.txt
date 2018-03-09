@@ -1,0 +1,13 @@
+                  161064@lab200ab-ws01 MINGW64 ~/lab1 (logging)
+$ git log
+commit 122e2a808deae129afda8a23dd12ee10825dedeb (HEAD -> logging, origin/master, master)
+Author: unknown <leon.janevski@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:55:42 2018 +0100
+
+    modify l1.txt
+
+commit 17b8a292bc7b5f3e3c99c0fe747378e143aa9270
+Author: unknown <leon.janevski@students.finki.ukim.mk>
+Date:   Fri Mar 9 15:52:48 2018 +0100
+
+    Initial commit
