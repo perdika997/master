@@ -1,0 +1,49 @@
+161064@lab200ab-ws01 MINGW64 ~ (master)
+$ mkdir lab1
+
+161064@lab200ab-ws01 MINGW64 ~ (master)
+$ cd lab1
+
+$ git init
+
+$ nano l1.txt
+
+$ git add l1.txt
+
+ git commit -m "Initial commit"
+
+ git config --global --edit
+
+$ git add l1.txt
+
+$ git commit -m "modify l1.txt"
+
+$ git remote add origin https://github.com/perdika997/master.git
+
+$ git push origin master
+
+$ git checkout -- l1.txt
+
+$ git branch logging
+
+$ git checkout logging
+
+$ notepad log.txt
+
+$ git log
+
+$ git commit -m"add log"
+
+$ git add . log.txt
+
+$ git push origin logging
+
+git checkout master
+
+git merge logging
+
+git checkout master
+
+git push
+
+git push -u origin master
